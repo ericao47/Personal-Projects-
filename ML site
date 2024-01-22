@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Machine Learning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Machine Learning Academy</h1>
+        <nav>
+            <ul>
+                <li><a href="#intro">Introduction</a></li>
+                <li><a href="#supervised">Supervised Learning</a></li>
+                <li><a href="#unsupervised">Unsupervised Learning</a></li>
+                <li><a href="#deep-learning">Deep Learning</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="intro">
+            <!-- Content for Introduction -->
+        </section>
+        <section id="supervised">
+            <!-- Content for Supervised Learning -->
+        </section>
+        <section id="unsupervised">
+            <!-- Content for Unsupervised Learning -->
+        </section>
+        <section id="deep-learning">
+            <!-- Content for Deep Learning -->
+        </section>
+        <section id="resources">
+            <!-- Content for Resources -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Machine Learning Academy</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
